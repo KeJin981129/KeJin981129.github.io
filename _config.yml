@@ -4,9 +4,6 @@ tagline: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://kejin.xyz
 
-# Owner/author information
-owner:
-  name:           Jin Ke
 #  bio:
   email:          kejin981129@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
