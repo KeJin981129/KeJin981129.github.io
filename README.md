@@ -1,6 +1,6 @@
 # About Me
 
-Hi 👋 My name is **Jin Ke (柯晋)**. Here is [my latest CV](http://KeJin981129.github.io/file/CV-jinke.pdf).
+Hi 👋 My name is **Jin Ke (柯晋)**. Here is [my latest CV](http://KeJin981129.github.iofile/CV-Jinke.pdf).
 
 I am a junior majoring in Automation at [Fuzhou University](https://www.fzu.edu.cn/) (China) and Robotics and Intelligent Devices at [Maynooth University](https://maynoothuniversity.ie/) (Ireland, Combined Degrees).
 
