@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://KeJin981129.github.io/kenjin.jpg" class="floatpic" width="360" height="480">
+<img src="https://KeJin981129.github.io/kejin.jpg" class="floatpic" width="360" height="480">
 
 
 
