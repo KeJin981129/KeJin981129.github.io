@@ -24,13 +24,13 @@ In addition, at the intersection of environmental economics and health economics
 
 Here is [my latest CV](http://KeJin981129.github.io/file/CV-kejin.pdf).
 
-## Research Interests
+## Previous training & Research experiences
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT and Healthcare IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My previous training and research experiences have prepared me well for my proposed PhD studies. I have taken three courses in statistics, including a course in demography, and have been trained in the data analysis training program of the Chinese Population Association, which has enabled me to independently apply basic quantitative methods to my research, as demonstrated in my publications. I have been following the development of frontier causal inference techniques and have applied some new methods in my research. For example, a multi-period difference in differences method was used to assess the impact of the Chinese long-term care insurance program on multidimensional poverty among middle-aged and older adults in a quasi-natural experimental framework, and test procedures were designed to test the robustness of the findings. Additionally, I am also interested in using machine learning and natural language processing techniques for quantitative research in the social sciences, and have been actively learning Python on my own, but have not yet used these methods in my research. 
 
-## News and Updates
+## Writing Sample （English/Chinese）
 
-- ***Feb 2023:*** **[FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)** has been published! Welcome to star, fork and pull!
+- [
 - ***Jan 2023:*** One paper accepted to ICAROB 2023, see you in Japan!
 - ***Dec 2022:*** Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
 - ***Oct 2022:*** One paper accepted to IEEE CENIM, see you in Indonesia!
