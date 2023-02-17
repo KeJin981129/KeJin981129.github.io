@@ -26,7 +26,7 @@ Here is [my latest CV](http://KeJin981129.github.io/file/CV-kejin.pdf).
 
 ## Previous training & Research experiences
 
-My previous training and research experiences have prepared me well for my proposed PhD studies. 
+  My previous training and research experiences have prepared me well for my proposed PhD studies. 
 
 I have taken three courses in statistics, including a course in demography, and have been trained in the data analysis training program of the Chinese Population Association, which has enabled me to independently apply basic quantitative methods to my research, as demonstrated in my publications. 
 
@@ -36,7 +36,7 @@ Additionally, I am also interested in using machine learning and natural languag
 
 ## Writing Sample （English/Chinese）
 
-[Long-term Care Insurance and Multidimensional Poverty of Middle-Aged and Elderly: Evidence from China.](http://KeJin981129.github.io/mypaper/english.pdf)       [**Appendix**](http://KeJin981129.github.io/mypaper/english_appendix.pdf)
+  [Long-term Care Insurance and Multidimensional Poverty of Middle-Aged and Elderly: Evidence from China.](http://KeJin981129.github.io/mypaper/english.pdf)       [**Appendix**](http://KeJin981129.github.io/mypaper/english_appendix.pdf)
 
 [自雇型就业的生育效应与作用机理](http://KeJin981129.github.io/mypaper/chinese1.pdf)
 
