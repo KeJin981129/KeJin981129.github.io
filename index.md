@@ -10,7 +10,12 @@ layout: page
 
 Hi 👋 My name is **Jin Ke (柯晋)**.
 
-I am currently a Master's candidate in **Population, Resources & Environmental Economics** at [South China Normal University](https://www.scnu.edu.cn/)(China).My research interests are divided into three areas at the master's level: (1) In the area of macro-demographic economics, I focused on the impact of the digital economy on the demographic dividend and social security. (2) In the area of micro-demographic/health economics, I focused on the fertility behavior of the self-employed and assessed the impact of the Chinese long-term care insurance pilot program on multidimensional poverty among middle-aged and older adults. (3) In the area of environmental economics, I have focused on the application of the computable general equilibrium model. I am presently leading a study to assess the environmental benefits of foreign direct investment in the clean energy sector in China. In addition, at the intersection of environmental economics and health economics, I am currently leading a study to assess the public health benefits of a low-carbon city pilot program in China. Here is [my latest CV](http://KeJin981129.github.io/file/CV-Jinke.pdf)).
+I am currently a Master's candidate in **Population, Resources & Environmental Economics** at [South China Normal University](https://www.scnu.edu.cn/)(China).
+My research interests are divided into three areas at the master's level: 
+(1) In the area of macro-demographic economics, I focused on the impact of the digital economy on the demographic dividend and social security. 
+(2) In the area of micro-demographic/health economics, I focused on the fertility behavior of the self-employed and assessed the impact of the Chinese long-term care insurance pilot program on multidimensional poverty among middle-aged and older adults. 
+(3) In the area of environmental economics, I have focused on the application of the computable general equilibrium model. I am presently leading a study to assess the environmental benefits of foreign direct investment in the clean energy sector in China. In addition, at the intersection of environmental economics and health economics, I am currently leading a study to assess the public health benefits of a low-carbon city pilot program in China. 
+Here is [my latest CV](http://KeJin981129.github.io/file/CV-Jinke.pdf).
 
 ## Research Interests
 
