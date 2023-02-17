@@ -26,7 +26,7 @@ Here is [my latest CV](http://KeJin981129.github.io/file/CV-kejin.pdf).
 
 ## Previous training & Research experiences
 
-  My previous training and research experiences have prepared me well for my proposed PhD studies. 
+My previous training and research experiences have prepared me well for my proposed PhD studies. 
 
 I have taken three courses in statistics, including a course in demography, and have been trained in the data analysis training program of the Chinese Population Association, which has enabled me to independently apply basic quantitative methods to my research, as demonstrated in my publications. 
 
