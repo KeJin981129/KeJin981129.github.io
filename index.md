@@ -26,16 +26,19 @@ Here is [my latest CV](http://KeJin981129.github.io/file/CV-kejin.pdf).
 
 ## Previous training & Research experiences
 
-My previous training and research experiences have prepared me well for my proposed PhD studies. I have taken three courses in statistics, including a course in demography, and have been trained in the data analysis training program of the Chinese Population Association, which has enabled me to independently apply basic quantitative methods to my research, as demonstrated in my publications. I have been following the development of frontier causal inference techniques and have applied some new methods in my research. For example, a multi-period difference in differences method was used to assess the impact of the Chinese long-term care insurance program on multidimensional poverty among middle-aged and older adults in a quasi-natural experimental framework, and test procedures were designed to test the robustness of the findings. Additionally, I am also interested in using machine learning and natural language processing techniques for quantitative research in the social sciences, and have been actively learning Python on my own, but have not yet used these methods in my research. 
+My previous training and research experiences have prepared me well for my proposed PhD studies. 
+
+I have taken three courses in statistics, including a course in demography, and have been trained in the data analysis training program of the Chinese Population Association, which has enabled me to independently apply basic quantitative methods to my research, as demonstrated in my publications. 
+
+I have been following the development of frontier causal inference techniques and have applied some new methods in my research. For example, a multi-period difference in differences method was used to assess the impact of the Chinese long-term care insurance program on multidimensional poverty among middle-aged and older adults in a quasi-natural experimental framework, and test procedures were designed to test the robustness of the findings. 
+
+Additionally, I am also interested in using machine learning and natural language processing techniques for quantitative research in the social sciences, and have been actively learning Python on my own, but have not yet used these methods in my research. 
 
 ## Writing Sample （English/Chinese）
 
-- [
-- ***Jan 2023:*** One paper accepted to ICAROB 2023, see you in Japan!
-- ***Dec 2022:*** Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- ***Oct 2022:*** One paper accepted to IEEE CENIM, see you in Indonesia!
-- ***Sep 2022:*** Happy to be nominated for the 2021-2022 China National Scholarship (top 1%).
-- ***Jun 2022:*** Research Intern at University of Cambridge, online, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- [W. Li†, **J. Ke*†**, F. Sun. 2023. Long-term Care Insurance and Multidimensional Poverty of Middle-Aged and Elderly: Evidence from China. Frontiers in Public Health. 11:269.](http://KeJin981129.github.io/mypaper/english.pdf) ***[Appendix](http://KeJin981129.github.io/mypaper/english_appendix.pdf)*** 
+- [张华初,柯晋.自雇型就业的生育效应与作用机理[J].华南师范大学学报(社会科学版),2022,No.260(06):83-98+206.](http://KeJin981129.github.io/mypaper/chinese1.pdf)
+- [李文秀,柯晋.数字经济对城市社会保障发展的影响研究[J].产经评论,2022,13(05):142-160.DOI:10.14007/j.cnki.cjpl.2022.05.010.](http://KeJin981129.github.io/mypaper/chinese2.pdf)
 
 
 
