@@ -22,7 +22,7 @@ My research interests are divided into three areas at the master's level:
 
 In addition, at the intersection of environmental economics and health economics, I am currently leading a study to assess the public health benefits of a low-carbon city pilot program in China. 
 
-Here is [my latest CV](http://KeJin981129.github.io/file/CV-Jinke.pdf).
+Here is [my latest CV](http://KeJin981129.github.io/file/CV-kejin.pdf).
 
 ## Research Interests
 
